@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Amir Beg
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Firebase
+- 🌱 Evolving with every line of code
 - 💞️ I’m looking to collaborate on Game Development Projects in Unity 3D
 - 📫 How to reach me theamirbeg@gmail.com
 
